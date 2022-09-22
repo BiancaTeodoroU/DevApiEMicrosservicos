@@ -16,3 +16,9 @@
 
 ### Para instalar todas as dependencias das bibliotecas 
     pip install -r requirements.txt
+
+### Como mostrar o json de forma interativa
+    python -i users.py
+    
+### exemplo para exibir um dado 
+    usuario['total']
