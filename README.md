@@ -13,3 +13,6 @@
 
 ### Rodar o servidor da API
     uvicorn server:app
+
+### Para instalar todas as dependencias das bibliotecas 
+    pip install -r requirements.txt
