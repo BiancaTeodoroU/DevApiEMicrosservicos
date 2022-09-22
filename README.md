@@ -10,3 +10,6 @@
 
 ### Para ativar o ambiente virtual 
     source .venv/bin/activate
+
+### Rodar o servidor da API
+    uvicorn server:app
