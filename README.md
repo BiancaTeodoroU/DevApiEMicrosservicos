@@ -22,3 +22,6 @@
     
 ### exemplo para exibir um dado 
     usuario['total']
+
+### exibir no requirements.txt bibliotecas baixadas 
+    pip freeze > requirements.txt
