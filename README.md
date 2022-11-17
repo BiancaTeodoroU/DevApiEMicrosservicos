@@ -12,7 +12,7 @@
     source .venv/bin/activate
 
 ### Rodar o servidor da API
-    uvicorn server:app
+    uvicorn atividade:app
 
 ### Instalar biblioteca
     pip install requests 
